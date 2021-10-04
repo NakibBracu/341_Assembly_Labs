@@ -1,0 +1,12 @@
+dhora jak amar 3-9 er moddhe 3 diye divisible number gula print korte 
+bolse.so ami ja korsi
+cl er value 9 dhorsi pore ata komte komte 3 e asle exit korbo
+but amar number 1st theke print korte hobe
+tai bl e ami lower limit tah niye nisi and ai divisible
+and print er jinistah 1st thekei (3 thekei) chole asche 
+print hoye jacce cause bl er man 1 kore bartase
+tai cl er man kome 3 e asle just exit hocce tiki
+kintu 3 1st theke print hoye jacce tai kono number
+jodi oi range e pore and 3 diye divisible
+hoi tahole se print hobei
+so our logic works
